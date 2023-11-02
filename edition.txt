@@ -3,3 +3,4 @@ Second edition.
 third edition.
 issue resolved
 hotfix team's sol
+New func added
