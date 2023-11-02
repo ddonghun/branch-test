@@ -2,4 +2,4 @@ first edition.
 Second edition.
 third edition.
 issue resolved
-hotpix my sol
+hotfix team's sol
